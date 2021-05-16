@@ -1,7 +1,7 @@
-# Brupi's World
+# Introdução a Brupi's World
 Esse projeto foi realizado como hobby, sendo ele um jogo 2D no estilo plataforma onde o usuário pode coletar moedas, matar monstros que são spawnados pelo mapa. E, embora o jogo seja curto, contendo apenas 1 hora de gameplay, ele também conta com uma história interessante e diálogos com a Brupi (personagem principal).
 
-# Como jogar o jogo:
+# Como jogar Brupi's World:
 Para joga-lo é simples, basta baixar o repositório do projeto, ir na pasta **Build do jogo** e clicar em **Brupi World.exe**
 
 # Controles do jogo
