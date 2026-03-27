@@ -1,112 +1,111 @@
-# Introdução a Brupi's World
-Esse projeto foi realizado como hobby, sendo ele um jogo 2D no estilo plataforma onde o usuário pode coletar moedas, matar monstros que são spawnados pelo mapa. E, embora o jogo seja curto, contendo apenas 1 hora de gameplay, ele também conta com uma história interessante e diálogos com a Brupi (personagem principal).
+# Introduction to Brupi's World
+This project was developed as a hobby. It is a 2D platformer game where the user can collect coins and defeat monsters spawned across the map. Although the game is short, containing only about 1 hour of gameplay, it features an interesting story and dialogues with Brupi (the main character).
 
-# Como jogar Brupi's World
-Para joga-lo é simples, basta baixar o repositório do projeto, ir na pasta **Build do jogo** e clicar em **Brupi World.exe**
+# How to play Brupi's World
+Playing is simple: just download the project repository, go to the **Game Build** folder, and click on **Brupi World.exe**.
 
-# Controles do jogo
-O jogo apenas possui duas mecânicas simples, os controles de movimentação do personagem e de atirar projéteis nos inimigos
+# Game Controls
+The game features only two simple mechanics: character movement controls and shooting projectiles at enemies.
 ![alt text](https://i.imgur.com/7cu9lWu.png)
 
-# Inimigos
-O jogo conta com **quatro** tipos de inimigos diferentes, tendo cada um deles suas próprias características:
+# Enemies
+The game features **four** different types of enemies, each with its own characteristics:
 
-### Lobo
+### Wolf
 ![alt text](https://i.imgur.com/2SkRilf.png)
 
-🡪 Causam dano ao contato
-🡪 A velocidade desse inimigo pode variar de lobo para lobo
-🡪 Perseguem o seu personagem
-🡪 Não conseguem pular plataformas
-🡪 Colidem com as paredes
-🡪 Perigosos em ambientes fechados
+🡪 Deals contact damage
+🡪 Speed may vary from wolf to wolf
+🡪 Chases the character
+🡪 Cannot jump between platforms
+🡪 Collides with walls
+🡪 Dangerous in closed environments
 
-**Dica contra esse inimigo:**
-Atirar no lobo antes que ele chegue em você ou também é possível evitá-los apenas indo para outra plataforma, pois eles não conseguem pular plataformas, sendo assim, não vão mais te perturbar
+**Tip against this enemy:**
+Shoot the wolf before it reaches you, or you can avoid them by simply moving to another platform. Since they cannot jump between platforms, they won't bother you anymore.
 
-### Abelha
+### Bee
 ![alt text](https://i.imgur.com/BIWLKPv.png)
 
-🡪 Causam dano ao contato
-🡪 Normalmente aparecem em bando
-🡪 Irão seguir seu personagem 
-🡪 Conseguem voar
-🡪 São capazes de atravessar paredes
+🡪 Deals contact damage
+🡪 Usually spawns in swarms
+🡪 Follows the character
+🡪 Can fly
+🡪 Can pass through walls
 
-**Dica contra esse inimigo:**
-Ir para um local aberto e atirar nas abelhas enquanto anda para trás
+**Tip against this enemy:**
+Move to an open area and shoot the bees while walking backward.
 
-### Sapo
+### Frog
 ![alt text](https://i.imgur.com/fPdRs2Q.png)
 
-🡪 Permanecem sempre no mesmo lugar
-🡪 Não invertem sua posição (virar para trás)
-🡪 Atiram projéteis de fogo de forma constante
-🡪 Estão sempre em lugares estratégicos no mapa
-🡪 Possuem um Fire rate de 1.8s entre cada projétil
-🡪 Causa dano ao contato
+🡪 Always stays in the same place
+🡪 Does not change facing direction (cannot turn around)
+🡪 Constantly shoots fire projectiles
+🡪 Always placed in strategic locations on the map
+🡪 Has a fire rate of 1.8s between each projectile
+🡪 Deals contact damage
 
-**Dica contra esse inimigo:**
-Tente chegar por trás dos sapos, pois eles atiram somente para frente, portanto são muito vulneráveis nas costas; outra forma de elimina-los é usar o Intervalo dos tiros para criar uma brecha e poder atacá-los
+**Tip against this enemy:**
+Try to approach frogs from behind, as they only shoot forward and are highly vulnerable from the back. Another way to defeat them is to use the shooting interval to create an opening and attack.
 
-
-### Planta Carnívora
+### Carnivorous Plant
 ![alt text](https://i.imgur.com/PBSOzmn.png)
 
-🡪 Permanecem sempre no mesmo lugar
-🡪 Não inverte sua posição (virar para trás)
-🡪 Não são tão perigosas se não chegar perto delas
-🡪 Estão sempre em lugares estratégicos no mapa
-🡪 Causa dano ao contato
+🡪 Always stays in the same place
+🡪 Does not change facing direction (cannot turn around)
+🡪 Not very dangerous unless approached
+🡪 Always placed in strategic locations on the map
+🡪 Deals contact damage
 
-**Dica contra esse inimigo:**
-Não se aproximar das plantas carnívoras e atirar nelas à distância
+**Tip against this enemy:**
+Do not get close to the carnivorous plants and shoot them from a distance.
 
-# Falas da personagem e instruções
-Hora ou outra aparecerão algumas bolinhas pretas com borda alaranjadas pelo mapa ou até mesmo plaquinhas, então, ao passar nesses triggers aparecerá uma tela de instruções ou alguma fala de Brupi
+# Character dialogues and instructions
+Occasionally, small black orbs with orange borders or even little signs will appear around the map. When passing through these triggers, an instruction screen or a dialogue from Brupi will pop up.
 ![alt text](https://i.imgur.com/bPY72kx.png)
 
-# Coletáveis
-Há dois tipos de coletáveis que o usuário consegue interagir, sendo eles para contar pontos no score do jogador ou para aumentar os seus pontos de vida
+# Collectibles
+There are two types of collectibles the user can interact with: ones that add to the player's score and others that increase health points.
 ![alt text](https://i.imgur.com/6Vrolhv.png)
 
 # Menu
-O design do menu foi criado a partir da ferramenta de edição Photoshop CS6. Todas as imagens geradas a partir das edições de imagem no PSCS6 para a sua criação estão na diretório de **Imagens Usadas**
+The menu design was created using Photoshop CS6. All images generated from the PSCS6 edits for its creation are in the **Used Images** directory.
 ![alt text](https://i.imgur.com/s2vymQv.png)
 
-# Criação da personagem
-A ideia na hora de criar o jogo foi ser apenas mais um dia no dia de Brupi, como se ela fizesse essa rotina todos os dias e fosse algo normal para ela, então é algo rotineiro eliminar os animais da floresta para ganhar moedas valiosas e em seguida voltar para a sua casinha simples e ir dormir. Essa histórinha é contada através dos dialógos que ela tem com o jogador e também analisando o ambiente que ela se encontra 
+# Character creation
+The idea when creating the game was to portray just another day in Brupi's life. It's as if she goes through this routine every day, making it normal for her to eliminate forest animals for valuable coins, return to her simple little house, and go to sleep. This short story is told through her dialogues with the player and by analyzing her surroundings.
 
-**Para cria-la eu tentei transmitir as seguintes caracterísitcas de Brupi para o jogador:**
-- Ser carismática
-- Não ter plena noção das coisas
-- Não possuir maldade nos seus atos
+**To create her, I tried to convey the following characteristics to the player:**
+- Charismatic
+- Unaware of the full picture
+- No malice in her actions
 
-**O design da personagem**
-Seu design foi criado todo a mão no papel e em seguida digitalizado utilizando a ferramenta de edição Photoshop CS6, enquanto todas as sprites do jogo foram retiradas da [Unity Assets Store](https://assetstore.unity.com/)
+**Character design**
+Her design was entirely hand-drawn on paper and then digitized using Photoshop CS6, while all in-game sprites were sourced from the [Unity Asset Store](https://assetstore.unity.com/).
 ![alt text](https://i.imgur.com/IudgTtH.png)
 
 # Bugs
 
-### Bug no Pulo
-Esse é um bug que se da ao pular para uma plataforma mais elevada e encostar nela muito rápido, fazendo com que o personagem não consiga pular mais, então o jogador terá que se mexer para os lados para que só então possa pular novamente. Esse bug também afeta a sprite do persongem, onde em determinadas situações, ao pular ele não restaura a animação idle (animação do personagem parado) e a sprite faz com que pareça que ele está caindo para sempre.
+### Jump Bug
+This bug occurs when jumping to a higher platform and touching it too quickly, causing the character to be unable to jump anymore. The player must move sideways to be able to jump again. This bug also affects the character's sprite: in certain situations, upon jumping, it fails to restore the idle animation, making it look like the character is falling endlessly.
 ![alt text](https://i.imgur.com/ALyzFa0.png)
 
-### Bug na Vida
-Em alguns momentos da gameplay o personagem consegue parar de levar dano dos inimigos, fazendo com que a Brupi se torne imortal enquanto permanecer parada. Tudo volta ao normal quando o jogador se mexe novamente.
+### Health Bug
+At certain points in the gameplay, the character stops taking damage from enemies, making Brupi immortal as long as she stands still. Everything returns to normal once the player moves.
 ![alt text](https://i.imgur.com/z9qNErq.png)
 
-### Bug da queda infinita
-Esse não é bem um bug mas sim um mal design de mapa, onde uma parte no mapa não possui uma parede para obrigar que o jogador fique no mapa, desta forma o jogador pode pular para fora do mapa fazendo com que o personagem fique caindo para sempre.
+### Infinite Fall Bug
+This isn't exactly a bug, but rather bad map design. A certain part of the map lacks a wall to keep the player inside, allowing the player to jump out of bounds and fall endlessly.
 ![alt text](https://i.imgur.com/y7GfBN7.png)
 
-# Considerações finais
-No fim de tudo foi muito divertido criar esse joguinho! 
-Eu criei para testar o que estava aprendendo sobre a Unity utilizando a linguagem C#. Acabei pensando no jogo plataforma 2D pois era o mais simples para começar e ver algum resultado mais prático, e também porque as sprites e tiles de mapa são muito mais fáceis de achar e ajustar para o jogo 2D do que 3D. Acabei conversando com alguns colegas para me darem ideias e alguns deles me ajudaram com o desenho, ideias para nome do personagem e até um pouco do design de mapa e história. Portanto foi uma ótima experiência para mim.
+# Final thoughts
+In the end, creating this little game was a lot of fun! 
+I built it to test what I was learning about Unity using C#. I chose a 2D platformer because it was the simplest way to start and see practical results, and also because 2D sprites and map tiles are much easier to find and adjust than 3D ones. I brainstormed with some friends who gave me ideas, and some helped with drawing, character name ideas, and even a bit of map design and story. Overall, it was a great experience for me.
 
-### Créditos
-Aqui estão algumas peças essenciais para a criação desse projeto:
-- Desenho das versões do personagem no papel: Ana Luiza Oliveira e Bruna Oliveira
-- Ajuda na criação do nome da personagem: Bruna Ferreira
-- Todas as sprites foram retiradas do site: https://assetstore.unity.com
-- Musicas utilizadas: Magic Scout - Farm; Magic Scout - Cottage; Magic Scout - Northen Glade que foram retiradas do site: https://incompetech.com
+### Credits
+Here are some essential pieces for the creation of this project:
+- Paper drawings of the character versions: Ana Luiza Oliveira and Bruna Oliveira
+- Help with the character's name: Bruna Ferreira
+- All sprites were taken from: https://assetstore.unity.com
+- Music used: Magic Scout - Farm; Magic Scout - Cottage; Magic Scout - Northen Glade, sourced from: https://incompetech.com
